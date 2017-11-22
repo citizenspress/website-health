@@ -1,0 +1,102 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+	<img src="/img/uhn/header.png" width=100% >
+      <div class="content-column-content">
+
+
+	<section id="list">
+	  <div>
+<h1>UHN Clerical & Non-union Workers</h1>
+
+<p>
+  CUPE is currently organizing clerical and other non-union employees at University Health Network. This includes all UHN worksites within the City of Toronto.
+
+<p>
+  Over the years the mergers that took place resulting in what is now UHN have created a mishmash of workers represented by various unions. CUPE Local 5001 represents employees at Women’s Own Withdrawal Centre as well as employees at Toronto General including fulltime clerical employees. CUPE Local 1156 represents employees at Toronto Rehabilitation Institute.
+
+<p>
+  Hospital workers who are union members have a huge advantage over non-union workers because union members are protected by a Collective Agreement.
+
+<p>
+  When you join a union you negotiate a Collective Agreement that sets out such things as:
+
+<ul>
+  <li> Vacation Entitlement (increased based on service for fulltime and increased percent in lieu for part time employees);
+<li>  Benefits (unreduced percentage in lieu of for part timer employees who are enrolled in HOOPP);
+<li>  Rates of Pay and regular procession through pay grids;
+<li>  Fair Shift Scheduling Process & schedules posted in advance;
+<li>  Priority for internal positions both full time and part time over 'external' applicants;
+<li>  Job Security Language including due to technological change;
+<li>  Layoff & Recall Rights;
+<li>  Health & Safety; and
+<li>  Discipline & Termination for Just Cause only 
+
+</ul>
+
+<p>
+  When you have a Collective Agreement the employer must abide by the rights and benefits set out in the Contract and must follow any and all procedures set out there as well. These working conditions are not restrictive for employees, however putting working conditions into the Collective Agreement does restrict the employer. They can no longer treat employees whatever way they wish. It ensures that everyone receives the same treatment by the employer and if not, it provides a process (the grievance process) to correct the problems. When you join a union everyone knows what the process is for dealing with most workplace matters because it is set out in the Collective Agreement.
+
+<p>
+  <a href="http://cupehospitals.ca/contact">Click here to download a mail-in card</a> or contact us at <a href="mailto:info@cupehospitals.ca">info@cupehospitals.ca</a> or at 1-877-533-2873.
+	  </div>
+	  <div>
+
+	  <div>
+	<h1>UHN News</h1>
+
+  {{ range .Site.Taxonomies.tags.uhnnews }}
+  <a href="{{ .Page.URL }}"><h3>{{ .Page.Title }}</h3></a>
+       <p>  {{ .Description}}<p>
+	    <a href="{{ .RelPermalink }}">Read More…</a>
+
+  
+  {{ end }}
+
+<h2>Other CUPE Hospital News</h2>
+        <ul>
+  {{ range .Site.Taxonomies.tags.news }}
+    <li><a href="{{ .Page.URL }}"><b>{{ .Page.Title }}</b></a></li>
+
+   {{ end }}
+</ul>
+   <ul>
+  {{ range .Site.Taxonomies.categories.uhn }}
+    <li><a href="{{ .Page.URL }}"><b>{{ .Page.Title }}</b></a></li>
+
+   {{ end }}
+</ul>
+
+<h1>Events</h1>
+        <ul>
+  {{ range .Site.Taxonomies.tags.uhnevents }}
+    <li><a href="{{ .Page.URL }}">{{ .Page.Title }}</a></li>
+  {{ end }}
+</ul>
+	  </div>
+	  
+	  <div>
+
+	    <h1>More reading</h1>
+	    
+                 {{ range .Data.Pages  }}
+           <h2 id="posttitle">{{ .Title}}</h2>
+         <p>  {{ .Description}}<p>
+	    <a href="{{ .RelPermalink }}">Read More…</a>
+<hr>
+            {{ end }}
+  
+  </div>
+
+
+  </div>
+
+	</section>
+   </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+

@@ -1,0 +1,41 @@
++++
+date = "2016-11-05T21:05:33+05:30"
+title = "About CUPE"
++++
+
+<img src="/img/cupe-long.png" alt="CUPE" style="width: 100%;"/>
+
+#### CUPE is Canada's largest hospital union
+
+<img src="/img/portfolio/cupe-all.jpg" alt="CUPE" style="width: 100%;"/>
+
+
+
+CUPE is [Canada’s largest union](https://cupe.ca/about-us) with over 639,000 members. CUPE is also Ontario’s largest union with 250,000 members, including more than 75,000 CUPE members working in healthcare. 40,000 of those members work at 120 sites of more than 60 hospitals. 
+
+> We represent registered practical nurses, personal support workers and porters, dietary, cleaning, reprocessing, trades, clerical staff, paramedics and paramedical staff.
+
+- CUPE’s job security and seniority provisions are the strongest of any hospital union in Ontario.
+- CUPE has an excellent track record of negotiating strong collective agreements, and of protecting and making gains at the bargaining table.
+
+## Ontario Council of Hospital Unions
+
+<img src="/img/ochu-logo.jpeg" alt="OCHU" align="right" style="width: 50%;"/>
+
+
+Founded in 1982, the 34,000 member Ontario Council of Hospital Unions (OCHU) is the hospital division of Canadian Union of Public Employees (CUPE).
+
+OCHU/CUPE bargains a provincial collective agreement with the Ontario Hospital Association and lays that pattern down across the hospital sector and for those long-term care facilities that have a relationship with a hospital. Because we have the strongest collective agreement in the province - and because we enforce it - OCHU/CUPE hospital locals have the lowest rate of layoff in Ontario.
+
+OCHU/CUPE carries out advocacy on behalf of our members and on behalf of hospital patients and long-term care residents across Ontario. OCHU/CUPE is an active partner with the Ontario Healthcare Coalition and works closely with the Ontario Healthcare Coalition whenever community health services are threatened with cuts or privatization.
+
+## Democratic union
+
+CUPE is a democratic union committed to Local Autonomy. This means that local bargaining units make decisions about bargaining priorities, grievances and arbitrations and even dues. In other words, as a member, your vote has real strength.
+
+## Campaigns
+
+In addition to securing improvements to working conditions at the bargaining table, CUPE also mobilizes public pressure on government decision-makers to enhance and protect public health care. CUPE members run effective advocacy campaigns on a number of healthcare issues, including: increased staffing in the public health care system, an end to health care cuts and privatization, legislative protection against violence in the workplace, a reduction in deaths due to hospital acquired infections, the implementation of a national pharmacare program.
+
+Take action now! Send a message to your MP to stand up for public health care: http://saveourhealthcare.ca
+

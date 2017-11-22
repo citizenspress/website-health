@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+	<img src="/img/events-header.png" width=100%>
+	<p></p>
+        <h1>{{ .Title }}</h1>
+         {{ .Content }}
+
+	{{if .PrevInSection}}
+<hr />
+	<a href="{{.PrevInSection.Permalink}}">Previous Article: {{ .PrevInSection.Title }}</a>{{end}}
+
+	{{if .NextInSection}}
+<hr />
+	<a href="{{.NextInSection.Permalink}}">Next Article: {{ .NextInSection.Title }}</a>
+	{{end}}
+	<hr />
+
+{{ partial "footer.html" . }}	
+       
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

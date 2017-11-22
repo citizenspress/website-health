@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+
+	<img src="/img/joincupe.png" width=100% >
+	<section id="list">
+ <div>
+
+	      <h1>Paramedical employees at St. Joseph's Hospital</h1>
+
+    <p>CUPE is currently organizing Paramedical employees at St Joseph’s. As you know Providence, St Joseph’s and St Michael’s merged as of August 1, 2017. The reason we are attempting to organize non union workers at this time is because now more than ever job security for non union positions will be tenuous.
+</p>
+<p>
+On the same day the merger took place, the employer notified employees that all employees will be able to apply for jobs at all locations. For CUPE members access to CUPE jobs are protected and our members have the first option for those jobs. Unfortunately, for non union employees this isn’t the case and as of yesterday employees from any location, union or non union, will be able to bid on non union jobs at all three locations including St Joseph’s.
+</p>
+<p>
+Hospitals merge in order to streamline services and costs and paramedical and clerical positions are typically the first to see restructuring and downsizing. CUPE has the strongest job security language which includes 5 months notice of layoff, retirement packages and chain bumping into other position. So with our strong language even though someone may be laid off from their current position, it is rare that at the end of the restructuring that anyone is actually without a job. Find out more about how CUPE can help.</p>
+<p>Find out more about how CUPE can help.  Contact us at <a href="mailto:ontarioorganizer@cupe.ca">ontarioorganizer@cupe.ca</a> or at <a href="tel:1-877-533-2873">1-877-533-2873</a>.
+</p>
+</div>
+  <div>
+
+
+        <ul id="list">
+            {{ range .Data.Pages  }}
+           <h2 id="posttitle">{{ .Title}}</h2>
+         <p>  {{ .Description}}<p>
+	    <a href="{{ .RelPermalink }}">Read More…</a>
+            {{ end }}
+        </ul>
+  </div>
+</section>
+   </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+

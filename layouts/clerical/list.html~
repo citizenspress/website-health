@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+
+	<img src="/img/nursing/header.png" width=100% >
+	<section id="list">
+  <div>
+        <ul id="list">
+            {{ range .Data.Pages  }}
+           <h2 id="posttitle">{{ .Title}}</h2>
+         <p>  {{ .Description}}<p>
+	    <a href="{{ .RelPermalink }}">Read More…</a>
+            {{ end }}
+        </ul>
+  </div>
+</section>
+   </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+

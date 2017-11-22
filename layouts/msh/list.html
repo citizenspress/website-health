@@ -1,0 +1,77 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+
+	<img src="/img/msh/joincupe.png" width=100% >
+      <div class="content-column-content">
+
+
+	<section id="list">
+
+<div>
+
+	      <h1>Clerical employees at Markham Stouffville Hospital are joining CUPE</h1>
+
+    <p>Back in January 2004, the Cottage Hospital Uxbridge was placed under the jurisdiction of Markham Stouffville Hospital. At that time, and up until recently, the work performed at both sites has remained separate. However, recently there have been some changes at the Uxbridge location and work that was normally performed by employees at the Uxbridge site has been moved to the Markham Stouffville site. These employees are members of CUPE Local 6364.</p>
+<p>
+
+As a result of this ‘intermingling’ of work, CUPE will be filing a PSLRTA Application. This application could affect employees at Markham Stouffville Hospital including non-union clerical employees. Please be assured that this Application will in no way result in job losses or unionized workers taking non-union employee positions. Job loss can only result in the Hospital deciding to restructure or cutback positions.
+</p>
+<p>
+CUPE is currently organizing the non union clerical at the Markham Stouffville location so that these employees can enjoy the same rights and benefits as the members of Local 6364 including job security, job posting language, a fair process for shift scheduling and schedules posted weeks in advance for a 6 week period.</p>
+<p>Find out more about how CUPE can help.  Contact us at <a href="mailto:ontarioorganizer@cupe.ca">ontarioorganizer@cupe.ca</a> or at <a href="tel:1-877-533-2873">1-877-533-2873</a>.
+</p>
+</div>
+	<section id="list">
+<div>
+<h1>Events</h1>
+        <ul>
+  {{ range .Site.Taxonomies.tags.mshevent }}
+    <li><a href="{{ .Page.URL }}">{{ .Page.Title }}</a></li>
+  {{ end }}
+</ul>
+
+
+  </div>
+
+
+<div>
+<h1>News</h1>
+     {{ range .Site.Taxonomies.tags.news }}
+    <a href="{{ .Page.URL }}"><h3>{{ .Page.Title }}</h3></a>
+<p>  {{ .Description}}
+<a href="{{ .RelPermalink }}">Read More…</a> 
+</p>
+ <hr>
+
+{{ end }}
+
+
+</div>
+
+
+	  <div>
+<h1>Additional information</h1>
+    
+            {{ range .Data.Pages  }}
+           <h3 id="posttitle">{{ .Title}}</h3>
+         <p>  {{ .Description}}<p>
+	      <a href="{{ .RelPermalink }}">Read More…</a>
+	      <hr>
+            {{ end }}
+   
+  </div>
+
+  
+</section>
+
+
+</section>
+   </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+

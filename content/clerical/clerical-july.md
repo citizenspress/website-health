@@ -1,0 +1,62 @@
++++
+categories = [""]
+date = "2017-05-19T16:43:23-04:00"
+description = "Bargaining | Violence against clerical staff | Technological change"
+tags = ["clerical", "newsletter"]
+title = "Clerical News - July"
+
++++
+
+
+## Technological changes pose particular issues for clerical staff
+
+
+
+<img src="/img/stmikes/Clerical-1_1.jpg" align="right" vspace="10px" hspace="10px"  />
+
+- Digitization of medical records
+- Automation of dicta-typing and medical transcription
+- Electronic patient registration kiosks
+
+
+These are just some examples of the revolution through technological change taking place in hospitals across Ontario, which is eliminating the jobs of clerical employees.
+
+In our central bargaining with Ontario hospitals, CUPE is seeking increased protections against the impact of technological changes on clerical staff.
+
+The most important breakthrough would be notification far in advance and provision for substantial employer-paid retraining of clerical employees facing technological change.
+
+## The problem of violence against clerical staff
+
+Ontario hospital clerical workers are subject to a high rate of workplace violence.
+
+Some of the violence is so severe that the staff member who is assaulted will never work again.
+
+CUPE conducted focus groups on violence at hospitals across Ontario in 2016 and 2017, in conjunction with the University of Stirling. The findings will be published in an international journal of occupational health and safety this fall.
+
+<img src="/img/stmikes/Clerical-2_1.jpg" align="right"  vspace="5px" hspace="5px"  />
+
+
+CUPE is bargaining for new protections for clerical and other hospital staff in our central bargaining this summer.
+
+CUPE and Unifor have called on the federal government to introduce amendments to the federal criminal code to make assault against healthcare staff a more serious offence.
+
+
+## Central bargaining begins for CUPE hospital staff
+
+Bargaining has begun for the clerical staff represented by the Canadian Union of Public Employees. It started June 10 and continues in August and September.
+<img src="/img/stmikes/Clerical-1_3.jpg" align="right" vspace="5px" hspace="5px" />
+
+
+The priorities for the union in this round of bargaining include:
+
+- Job security
+- Safe working conditions
+- Wages, benefit improvements and premium increases
+
+In bargaining the hospitals are seeking a number of concessions to job security, benefit and in other areas. CUPE is committed to continuing our long standing history of no concessions in our bargaining with the hospitals.
+
+All hospital staff represented by CUPE will be invited to participate in a teleconference call on July 24th at 7:00 p.m. to discuss the bargaining.We will call you at home.
+
+A newsletter will be direct mailed to every member’s home in August to update you on the status of the talks. CUPE is the only union in the hospital sector that did not bargain a wage freeze for its members.
+
+Ontario Council of Hospital Union/CUPE president Michael Hurley says “ the CUPE central hospital bargaining team is confident that this contract can be negotiated with wage gains, benefit and premium improvements and with improvements in other areas.

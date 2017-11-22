@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+	<img src="/img/mergers.png" width=100% >
+      <div class="content-column-content">
+
+
+	<section id="list">
+  <div>
+            {{ range .Data.Pages  }}
+           <h1 id="posttitle">{{ .Title}}</h1>
+         <p>  {{ .Description}}<p>
+	    <a href="{{ .RelPermalink }}">Read More…</a>
+            {{ end }}
+
+  </div>
+</section>
+   </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+

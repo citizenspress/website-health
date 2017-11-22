@@ -1,0 +1,47 @@
+/* your styles go here */
+
+.content-column-content p, .content-column-content li {
+    color: #6F6F6F;
+}
+
+.sidebar-heading {
+    margin-top: 30px;
+    font-size: 30px;
+    width: 80%;
+}
+
+.box-masonry .box-masonry-image {
+    display: block;
+    position: relative;
+    min-height: 100px;
+    background: #FFF;}
+
+
+    .box-masonry .box-masonry-text p {
+
+    color: #202020;
+    font-size: 14px;}
+
+
+.sidebar-heading {
+    letter-spacing: 0pt;
+    }
+
+
+.content-column-content img {
+    max-width: 100%;
+    margin: 10px;
+}
+
+.small-navbar-heading img {
+	max-width: 60%;
+	margin-top: -67px;
+}
+
+.content-column-content h1 {
+    border-bottom: solid 1px #1e628aff;
+}
+
+.box-masonry h4 a {
+	color: #23527c;
+}

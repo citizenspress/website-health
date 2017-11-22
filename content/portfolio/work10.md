@@ -1,0 +1,91 @@
++++
+draft = false
+image = "img/portfolio/group.png"
+showonlyimage = false
+date = "2016-11-05T20:22:08+05:30"
+title = "Questions about unionization"
+weight = 3
++++
+
+
+[Why should I join a union?](/portfolio/work10/#why-should-i-join-a-union)  
+[What is the process of forming a union?](/portfolio/work10/#what-is-the-process-of-forming-a-union)  
+[How is my privacy protected?](/portfolio/work10/#how-is-my-privacy-protected)  
+[What is a Collective Agreement?](/portfolio/work10/#what-is-a-collective-agreement)  
+[What are union dues?](/portfolio/work10/#what-are-union-dues)  
+[What does seniority mean?](/portfolio/work10/#what-does-seniority-mean)  
+[Can the employer fire employees for supporting the union?](/portfolio/work10/#can-the-employer-fire-employees-for-supporting-the-union)  
+[What happens after we become unionized?](/portfolio/work10/#what-happens-after-we-become-unionized)  
+[Who runs the union?](/portfolio/work10/#who-runs-the-union)  
+[Will we be entitled to Pay Equity?](/portfolio/work10/#will-we-be-entitled-to-pay-equity)
+
+<!--more-->
+
+![](/img/joincupe.png)
+
+
+# Why should I join a union?
+
+The most basic reason for joining a union is the strength and protection generated when employees act together with a common voice and in a common direction. Without a union, each employee must negotiate their own wages and working conditions with the employer. In reality this means you take whatever the employer offers and you have no remedy for situations where you feel you have been treated unjustly. When a union is certified to represent employees, all employees bargain together through the union. 
+
+<img src="/img/CUPE-logo.jpg" align="right" width="40%">
+
+By acting together employees have some real bargaining power: the employer must consider seriously a bargaining proposal which comes from all of its employees at once and not just from one of its employees at a particular time. 
+
+In addition, there is a procedure for remedying situations of injustice: grievances can be filed and, where the union feels the employer has violated the terms and conditions of the collective agreement, taken to arbitration. Unionized employees have much better protection than non-unionized employees in situations of termination or severance of employment. 
+
+Specifically, collective agreements typically restrict the right of an employer to discipline or discharge an employee to situations where it can prove “just cause”. An employee who has been fired without “just cause” can file a grievance and obtain reinstatement and compensation through the grievance and arbitration process. Non-unionized employees have no such right, since their employer can fire them at any time by giving them reasonable notice or pay in lieu of notice.
+	
+# What is the process of forming a union?
+
+A minimum of 40% of the employees must sign CUPE membership cards.  An application is then submitted to the Ontario Labour  Relations Board (“The Labour Board”). Within 5 business days, the Labour Board holds a secret ballot vote. A posting will go up in your workplace advising employees of the time, date and location of the vote. In order for the union to be successful, 50% plus one of employees who cast a ballot must vote in favour of the union.
+
+# How is my privacy protected?
+
+Signing a CUPE membership card is confidential. At no time during the process will your employer know whether or not you have signed a union membership card.  A Labour Board Officer holds the vote and this officer ensures that there is no interference by the employer or the union to intimidate or influence the vote. The voting process is confidential and is similar to Provincial and Federal elections. No one will ever know how you voted. The secrecy of the vote and card signer information is protected by law.
+
+
+# What is a Collective Agreement?
+
+A Collective Agreement is a legally-binding and enforceable contract that ensures everyone receives equal treatment by the employer and outlines an accountability process if the agreement is violated. A collective agreement can contain any terms and conditions that are agreed upon by the union and the employer. 
+
+Typically collective agreements contain provisions for rates of pay, shift premiums, vacations, statutory holidays, seniority, job postings, job security, benefit plans, uniform allowances, sick leave, leaves of absence, access to personnel files, disciplinary procedures and the grievance procedure to enforce the rights contained in the collective agreement.
+
+Local unions of CUPE are encouraged to determine what conditions of employment are important to them, so that they can be included in a collective agreement. You will have the opportunity to democratically elect your co-workers to serve on a committee to bargain your collective agreement, and you will vote on its ratification. In addition, local unions receive guidance from experienced representatives and access to information about working conditions in other similar workplaces. In addition, CUPE provides specialized expertise in research, health and safety, education, job evaluation and legal matters to assist local unions in achieving their goals.
+
+A collective agreement does not take away an employer’s right to manage its business. The employer still makes management decisions with respect to how the Township will be run, but it must do so in accordance with the rights of employees as contained in the collective agreement.
+
+# What are union dues?
+
+ CUPE dues are a minimum of .85%, which is paid to the National Union to support services provided to local unions, such as an experienced staff representative, education, research, and communications specialists, Worker’s Compensation, Health and Safety and Pay Equity specialists as well as legal staff. 
+ 
+A portion of your dues also contributes to two important funds. The National Strike Fund provides pay to members on the picket lines in a prolonged strike or lockout. At $90 million, this fund is a powerful reminder to employers that we can support our members if they don’t bargain in good faith. Strikes and lockouts are rare, but the National Strike Fund helps encourage employers to stay at the table. The other important fund is the $80-million National Defense Fund, which locals can access for campaigns that defend member jobs against contracting out, privatization and other threats.
+
+The amount above .85% is decided by and retained by the local union to pay its expenses (e.g. negotiating committee expenses). On average, CUPE locals set dues levels around 1.5%. Union dues are tax deducible. With CUPE, you do not pay union dues until you have a first collective agreement.
+
+# What does seniority mean?
+
+Seniority recognizes that employees should receive consideration for the length of time they have worked for their employer. In most collective agreements, seniority is determined from the date of original hiring with the employer. One of the main purposes of seniority is to provide a fair and objective way of determining who should be entitled to a promotion when a job becomes vacant. 
+
+Provided both employees are qualified for the job, it makes sense that the employee who has spent longer with the employer should be entitled to preference over a less senior employee. 
+
+Without this kind of objective determination, the employer has a free hand to choose whomever it wants and can choose whomever it likes better, without any consideration of their relative  abilities and length of employment.
+
+# Can the employer fire employees for supporting the union?
+
+The right to join a union and to be represented by a union is protected by law. An employer is not permitted to fire employees because they have chosen to engage in union activity nor to discriminate against them in any other way because of their union activity. Employers are still permitted to run their business as they have in the past, so long as they do not change their treatment of an employee because of the employee’s union activity. If you experience any intimidation or discipline by your boss as a consequence of your support for the union, CUPE’s skilled legal team will protect you.
+
+# What happens after we become unionized?
+
+You will elect members from your own group to represent you on a bargaining committee. The bargaining committee will be comprised of your members, Local representation and a CUPE representative. The bargaining committee will negotiate a first collective agreement for your bargaining unit and this collective agreement will be brought back to your bargaining unit to be ratified. Only your bargaining unit will vote on your collective agreement.
+
+# Who runs the union?
+
+Local unions in CUPE have democratic control over their activities. Members of the local union decide, at regular local 	meetings, on issues that are important to the local and the membership. The local union itself is run by officers that are elected by the members of the local union.
+
+# Will we be entitled to Pay Equity?
+
+When a group becomes unionized the law requires that the pay equity plan be revisited. The employer is required to establish a joint union and management pay equity committee; the union selects the union members and the employer selects its own members. CUPE will provide the local a pay equity specialist to work with the union committee to ensure all employees are treated in a fair and equitable manner.
+
+
+

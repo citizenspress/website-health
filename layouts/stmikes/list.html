@@ -1,0 +1,65 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+	<img src="/img/stmikes/header.png" width=100% >
+      <div class="content-column-content">
+
+
+
+
+	<section id="list">
+	  <div>
+
+	      <h1>Clerical employees at St. Michael's Hospital</h1>
+
+	          <p>Providence, St Joseph’s and St Michael’s merged as of August 1, 2017. The reason non-union employees at St. Michael's are joining CUPE is because now more than ever job security for non-union positions will be tenuous.</p>
+
+    <p>On the same day the merger took place, the employer notified employees that all employees will be able to apply for jobs at all locations. For CUPE members, access to CUPE jobs are protected and our members have the first option for those jobs including our CUPE clerical members. Unfortunately for non-union employees, this is not the case. Employees from any location, union or non-union, will be able to bid on non-union jobs at all three locations including St. Michael’s.</p>
+
+    <p>Hospitals merge in order to streamline services and costs, and clerical and paramedical positions are typically the first to see restructuring and downsizing. CUPE has the strongest job security language, which includes the longest notice of layoff of any healthcare union, retirement packages and chain bumping into other position. With CUPE’s strong contract language, even though someone may be laid off from their current position it is rare for anyone to be without a job at the end of the restructuring.</p>
+	      <p>
+  <a href="http://cupehospitals.ca/contact">Click here to download a mail-in card</a> or contact us at <a href="mailto:info@cupehospitals.ca">info@cupehospitals.ca</a> or at 1-877-533-2873.
+</p>
+</div>
+<div>
+<h1>Additional Information</h1>
+             {{ range .Data.Pages  }}
+            <h2 id="posttitle">{{ .Title}}</h2>
+            <p>  {{ .Description}}</p>
+	    <p> {{ .Summary }}</p>
+	    <a href="{{ .RelPermalink }}">Read More…</a>
+	    <hr>
+            {{ end }}
+ 
+
+<h1>Events</h1>
+        <ul>
+  {{ range .Site.Taxonomies.tags.stmikesevents }}
+    <li><a href="{{ .Page.URL }}">{{ .Page.Title }}</a></li>
+  {{ end }}
+</ul>
+
+<h1>News</h1>
+<ul>
+  {{ range .Site.Taxonomies.tags.news }}
+    <li><a href="{{ .Page.URL }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+    </ul>
+
+
+  </div>
+
+</div>
+
+
+
+  </div>
+</section>
+   </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+

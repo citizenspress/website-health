@@ -1,0 +1,78 @@
+baseurl = "http://cupehospitals.ca/"
+title = "CUPE Hospitals"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[Taxonomies]
+	tag = "tags"
+	category = "categories"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Canadian Union of Public Employees"
+  copyright = "&copy;2016 Canadian Union of Public Employees"
+  sidebarAbout = [
+    "The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada."
+
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "info@cupehospitals.ca"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "Contact Us or Sign a Card"
+  url = "contact/"
+
+[[params.navlinks]]
+  name = "About CUPE"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Hospital Merger Information"
+  url = "mergers/info"
+
+
+  [[params.navlinks]]
+  name = "Join CUPE"
+  url = "portfolio/work5/"
+
+
+[[params.navlinks]]
+  name = "Events"
+  url = "events/"
+  
+[[params.navlinks]]
+  name = "News"
+  url = "news/"
+
+
+  [params.social]
+  facebook      = "https://facebook.com/cupescfp"
+  googleplus    = ""
+  email         = "info@cupehospitals.ca"
+  twitter       = "https://twitter.com/@cupenat"
+  linkedin      = ""
+  stackoverflow = ""
+  instagram     = ""
+  github        = ""

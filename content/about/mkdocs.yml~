@@ -1,0 +1,31 @@
+site_name: Organizing Resources
+
+theme: "material"
+# theme: readthedocs
+
+pages:
+- About: 'index.md'
+- Training:
+  - Organizing Basics: 'training/basics.md'
+  - Styles of Organizing: 'training/styles.md'
+  - Signing Cards: 'training/cards.md'
+#  - Legal Basics: 'training/legal.md'
+  - Training Manual: 'training/manual.md'
+  - Training Manual 2: 'training/manual2.md'
+  - Recruiting: 'training/recruit.md'
+
+markdown_extensions:
+    - toc:
+
+extra:
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+extra:
+    logo: 'img/westjet.png'
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
+  - tables

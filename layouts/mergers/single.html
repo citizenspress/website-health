@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+	<img src="/img/mergers.png" width=100%>
+      <div class="content-column-content">
+
+	<p></p>
+        <h1>{{ .Title }}</h1>
+         {{ .Content }}
+
+<div>
+<h1>News</h1>
+     {{ range .Site.Taxonomies.categories.mergers }}
+    <a href="{{ .Page.URL }}"><h3>{{ .Page.Title }}</h3></a>
+<p>      <img src="{{ .Params.image }}"  align="right" width="40%">
+  {{ .Page.Description}}
+<a href="{{ .Page.RelPermalink }}">Read More…</a> 
+</p>
+ 
+{{ end }}
+
+
+</div>
+
+	{{if .PrevInSection}}
+<hr />
+	<a href="{{.PrevInSection.Permalink}}">Previous Article: {{ .PrevInSection.Title }}</a>{{end}}
+
+	{{if .NextInSection}}
+<hr />
+	<a href="{{.NextInSection.Permalink}}">Next Article: {{ .NextInSection.Title }}</a>
+	{{end}}
+	<hr />
+
+{{ partial "footer.html" . }}	
+       
+
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

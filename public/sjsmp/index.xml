@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sjsmps on CUPE Hospitals</title>
+    <link>http://cupehospitals.ca/sjsmp/</link>
+    <description>Recent content in Sjsmps on CUPE Hospitals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Canadian Union of Public Employees</copyright>
+    <lastBuildDate>Fri, 19 May 2017 16:43:23 -0400</lastBuildDate>
+    
+	<atom:link href="http://cupehospitals.ca/sjsmp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information about the merger</title>
+      <link>http://cupehospitals.ca/sjsmp/info/</link>
+      <pubDate>Fri, 19 May 2017 16:43:23 -0400</pubDate>
+      
+      <guid>http://cupehospitals.ca/sjsmp/info/</guid>
+      <description>Choosing a union to represent you in the workplace is extremely important. Choose CUPE.
+At CUPE, we have dedicated staff and member-organizers to be there for you, through every step of the PSLRTA process. Together we are stronger.
+CUPE is a great union with an excellent track record of protecting and making gains for our members.
+ CUPE is Ontario’s largest union with over 75,000 CUPE members working in health care.</description>
+    </item>
+    
+  </channel>
+</rss>
