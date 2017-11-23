@@ -1,11 +1,12 @@
 ---
-layout: news
+
 title: This is a test
 date: 2017-11-23T02:58:01.695Z
 image: /img/news/violence-stats.png
-categories: 'List ["test"]'
-tags: 'List ["test"]'
-description: test
+categories: ["test"]
+tags: ["test"]
+description: "testing"
+
 ---
 # This is a test
 
