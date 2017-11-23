@@ -11,6 +11,8 @@
 <link rel="stylesheet" href="{{ "css/owl.carousel.css" | absURL }}">
 <link rel="stylesheet" href="{{ "css/owl.theme.css" | absURL }}">
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 {{ with .Site.Params.style }}
   <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ else }}
