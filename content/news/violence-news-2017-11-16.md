@@ -2,7 +2,7 @@
 title: CUPE Anti-Violence Campaign News
 date: '2017-11-16T19:59:22+05:30'
 image: /img/news/violence-video.png
-category: '["news"]'
+category: 'List ["news"]'
 tags: 'List [ "news","kingston" ]'
 ---
 
