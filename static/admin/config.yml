@@ -21,8 +21,10 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "string"}
       - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      
 
 
