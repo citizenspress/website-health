@@ -2,8 +2,12 @@
 title: CUPE Anti-Violence Campaign News
 date: '2017-11-16T19:59:22+05:30'
 image: /img/news/violence-video.png
-category: news
+categories: news
 tags: news
+description: >-
+  CUPE/OCHU's anti-violence campaign Epidemic of Violence received extensive
+  media coverage. The media reported on the polling and stories of physical
+  attacks, sexual harassment, verbal abuse, and violence in Ontario hospitals.
 ---
 
 CUPE/OCHU's [anti-violence campaign](http://http://www.epidemicofviolence.ca/) _Epidemic of Violence_ received extensive media coverage. The media reported on the polling and stories of physical attacks, sexual harassment, verbal abuse, and violence in Ontario hospitals. 
