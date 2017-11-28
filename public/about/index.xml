@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About CUPE on CUPE Hospitals</title>
-    <link>http://cupehospitals.ca/about/</link>
+    <link>https://dreamy-bhabha-38106f.netlify.com/about/</link>
     <description>Recent content in About CUPE on CUPE Hospitals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Canadian Union of Public Employees</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
     
-	<atom:link href="http://cupehospitals.ca/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dreamy-bhabha-38106f.netlify.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
