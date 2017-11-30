@@ -38,8 +38,8 @@
   </url>
   
   <url>
-    <loc>http://cupehospitals.ca/mergers/info/</loc>
-    <lastmod>2020-11-05T19:59:22+05:30</lastmod>
+    <loc>http://cupehospitals.ca/news/2017-11-22-this-is-a-test/</loc>
+    <lastmod>2017-11-23T02:58:01+00:00</lastmod>
   </url>
   
   <url>
@@ -229,6 +229,18 @@
   </url>
   
   <url>
+    <loc>http://cupehospitals.ca/categories/-test-/</loc>
+    <lastmod>2017-11-23T02:58:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cupehospitals.ca/tags/-test-/</loc>
+    <lastmod>2017-11-23T02:58:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cupehospitals.ca/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
     <priority>0</priority>
@@ -308,7 +320,7 @@
   
   <url>
     <loc>http://cupehospitals.ca/mergers/</loc>
-    <lastmod>2020-11-05T19:59:22+05:30</lastmod>
+    <lastmod>2017-11-02T19:59:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -332,6 +344,12 @@
   
   <url>
     <loc>http://cupehospitals.ca/news/</loc>
+    <lastmod>2017-11-23T02:58:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cupehospitals.ca/categories/news/</loc>
     <lastmod>2017-11-16T19:59:22+05:30</lastmod>
     <priority>0</priority>
   </url>
@@ -379,13 +397,13 @@
   </url>
   
   <url>
-    <loc>http://cupehospitals.ca/tags/psw/</loc>
+    <loc>http://cupehospitals.ca/categories/psw/</loc>
     <lastmod>2017-05-19T16:43:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cupehospitals.ca/categories/psw/</loc>
+    <loc>http://cupehospitals.ca/tags/psw/</loc>
     <lastmod>2017-05-19T16:43:23-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -427,14 +445,14 @@
   </url>
   
   <url>
-    <loc>http://cupehospitals.ca/tags/stmikes/</loc>
-    <lastmod>2016-11-05T00:00:00+05:30</lastmod>
+    <loc>http://cupehospitals.ca/categories/stmikes/</loc>
+    <lastmod>2017-08-01T16:43:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cupehospitals.ca/categories/stmikes/</loc>
-    <lastmod>2017-08-01T16:43:23-04:00</lastmod>
+    <loc>http://cupehospitals.ca/tags/stmikes/</loc>
+    <lastmod>2016-11-05T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -452,7 +470,7 @@
   
   <url>
     <loc>http://cupehospitals.ca/tags/</loc>
-    <lastmod>2017-11-05T10:00:00+05:30</lastmod>
+    <lastmod>2017-11-23T02:58:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
