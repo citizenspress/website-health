@@ -10,10 +10,14 @@ categories = ["mergers"]
 +++
 
 
+This is a change
+
+
 St. Joseph’s Health Centre is in the process of making a decision about how to prepare and deliver food in its cafeteria. 
 
 <img src="/img/food.png" width=50% align="right">
 
+![](/img/food.png)
 
 Rather than serve “TV dinner” style food from a factory operation outside of Toronto, we think the hospital should consider patient well-being and the needs of the community.
 
