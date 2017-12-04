@@ -98,6 +98,18 @@ Bargaining Unit If a new group of employees decides to join a union they are ‘
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>This is a test</title>
+      <link>http://cupehospitals.ca/news/2017-11-22-this-is-a-test/</link>
+      <pubDate>Thu, 23 Nov 2017 02:58:01 +0000</pubDate>
+      
+      <guid>http://cupehospitals.ca/news/2017-11-22-this-is-a-test/</guid>
+      <description>This is a test Testing.</description>
+    </item>
+    
+    <item>
+>>>>>>> 6086591c4932d7921184afb795e98802f5a9e9be
       <title>CUPE Anti-Violence Campaign News</title>
       <link>https://dreamy-bhabha-38106f.netlify.com/news/violence-news-2017-11-16/</link>
       <pubDate>Thu, 16 Nov 2017 19:59:22 +0530</pubDate>
