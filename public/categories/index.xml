@@ -2,85 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CUPE Hospitals</title>
-    <link>https://dreamy-bhabha-38106f.netlify.com/categories/</link>
+    <link>http://cupehospitals.ca/categories/</link>
     <description>Recent content in Categories on CUPE Hospitals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Canadian Union of Public Employees</copyright>
     <lastBuildDate>Fri, 19 May 2017 16:43:23 -0400</lastBuildDate>
     
-	<atom:link href="https://dreamy-bhabha-38106f.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cupehospitals.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/</link>
+      <link>http://cupehospitals.ca/categories/</link>
       <pubDate>Fri, 19 May 2017 16:43:23 -0400</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Test </title>
-      <link>http://cupehospitals.ca/categories/-test-/</link>
-      <pubDate>Thu, 23 Nov 2017 02:58:01 +0000</pubDate>
-      
-      <guid>http://cupehospitals.ca/categories/-test-/</guid>
+      <guid>http://cupehospitals.ca/categories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Canadian Union of Public Employees</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/canadian-union-of-public-employees/</link>
+      <link>http://cupehospitals.ca/categories/canadian-union-of-public-employees/</link>
       <pubDate>Fri, 19 May 2017 16:43:23 -0400</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/canadian-union-of-public-employees/</guid>
+      <guid>http://cupehospitals.ca/categories/canadian-union-of-public-employees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factsheet</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/factsheet/</link>
+      <link>http://cupehospitals.ca/categories/factsheet/</link>
       <pubDate>Fri, 20 Oct 2017 10:00:00 +0530</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/factsheet/</guid>
+      <guid>http://cupehospitals.ca/categories/factsheet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Funding</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/funding/</link>
+      <link>http://cupehospitals.ca/categories/funding/</link>
       <pubDate>Fri, 20 Oct 2017 10:00:00 +0530</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/funding/</guid>
+      <guid>http://cupehospitals.ca/categories/funding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kghd</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/kghd/</link>
+      <link>http://cupehospitals.ca/categories/kghd/</link>
       <pubDate>Fri, 19 May 2017 16:43:23 -0500</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/kghd/</guid>
+      <guid>http://cupehospitals.ca/categories/kghd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mergers</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/mergers/</link>
+      <link>http://cupehospitals.ca/categories/mergers/</link>
       <pubDate>Sun, 05 Nov 2017 10:00:00 +0530</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/mergers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/news/</link>
-      <pubDate>Thu, 16 Nov 2017 19:59:22 +0530</pubDate>
-      
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/news/</guid>
+      <guid>http://cupehospitals.ca/categories/mergers/</guid>
       <description></description>
     </item>
     
@@ -95,37 +77,37 @@
     
     <item>
       <title>Podcast</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/podcast/</link>
+      <link>http://cupehospitals.ca/categories/podcast/</link>
       <pubDate>Sun, 05 Nov 2017 10:00:00 +0530</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/podcast/</guid>
+      <guid>http://cupehospitals.ca/categories/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psw</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/psw/</link>
+      <link>http://cupehospitals.ca/categories/psw/</link>
       <pubDate>Fri, 19 May 2017 16:43:23 -0400</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/psw/</guid>
+      <guid>http://cupehospitals.ca/categories/psw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stmikes</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/stmikes/</link>
+      <link>http://cupehospitals.ca/categories/stmikes/</link>
       <pubDate>Tue, 01 Aug 2017 16:43:23 -0400</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/stmikes/</guid>
+      <guid>http://cupehospitals.ca/categories/stmikes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uhn</title>
-      <link>https://dreamy-bhabha-38106f.netlify.com/categories/uhn/</link>
+      <link>http://cupehospitals.ca/categories/uhn/</link>
       <pubDate>Fri, 19 May 2017 16:43:23 -0400</pubDate>
       
-      <guid>https://dreamy-bhabha-38106f.netlify.com/categories/uhn/</guid>
+      <guid>http://cupehospitals.ca/categories/uhn/</guid>
       <description></description>
     </item>
     
