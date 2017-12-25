@@ -17,10 +17,7 @@ googleAnalytics = ""
   style = "default"
   description = "Canadian Union of Public Employees"
   copyright = "&copy;2016 Canadian Union of Public Employees"
-  sidebarAbout = [
-    "The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada."
-
-  ]
+  sidebarAbout = ["The Canadian Union of Public Employees (CUPE) is the largest healthcare union in Canada."]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -33,6 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
+     
   email = "info@cupehospitals.ca"
 
   # Nav links in the side bar Apply here
